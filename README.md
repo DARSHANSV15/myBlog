@@ -21,5 +21,8 @@ node index.js
 node server.js
 ```
 
+Now go to any web browser and open http://localhost:3000/ and http://localhost:4000/  
+The blog webpage will be running on these ports specified above. 
+
 ### Sample Blog post  
 ![Screenshot 2024-01-31 164034](https://github.com/DARSHANSV15/myBlog/assets/130700972/204da03c-5e10-49f5-8838-b77e6f3218d4)
