@@ -20,5 +20,6 @@ node index.js
 ```node
 node server.js
 ```
+
+### Sample Blog post  
 ![Screenshot 2024-01-31 164034](https://github.com/DARSHANSV15/myBlog/assets/130700972/204da03c-5e10-49f5-8838-b77e6f3218d4)
-![Screenshot (57)](https://github.com/DARSHANSV15/myBlog/assets/130700972/3810b368-ab0a-4a33-a97c-44feb1cea3d1)
